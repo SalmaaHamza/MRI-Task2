@@ -25,9 +25,6 @@ Every point in the raw data matrix contains part of the information for the comp
 
 ---
 ## **Code Details and Results** 
----
-
-
 
 In This part we take an image and present it in its 2-Dimensional K-Space grayscaled image . 
 
@@ -102,12 +99,7 @@ In This part we take an image and present it in its 2-Dimensional K-Space graysc
 ```
 ## **Results:** 
 - The magnetic_field and difference in angular_frequency between the molecules of water:
-
 ![Alt Text](larmor_frequency.jpeg)
-
-
-
-
 
 --------------
 ## **Last part:**
