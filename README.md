@@ -101,7 +101,6 @@ In This part we take an image and present it in its 2-Dimensional K-Space graysc
         plt.show()
 ```
 ## **Results:** 
-
 - The magnetic_field and difference in angular_frequency between the molecules of water:
 
 ![Alt Text](larmor_frequency.jpeg)
@@ -216,7 +215,3 @@ we assumed that M  **"Megnitization Vector"**  is [0,0,1] and we rotate it aroun
 - Precession and decaying of MXY components around the Z axis:
 
 ![Alt Text](2.gif)
-where
-- purple line :- 
-- Red line :-
-- Blue line :-
